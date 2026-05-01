@@ -30,7 +30,7 @@ Logs are stored in `ai_logs.log`
 Run tests using:
 pytest tests/
 
-Zecpath AI System
+<!-- Zecpath AI System
 ## Overview
 Zecpath AI is an intelligent hiring system that automates recruitment using
 AI.
@@ -60,4 +60,4 @@ python main.py
 Logs are stored in `ai_logs.log`
 ## Testing
 Run tests using:
-pytest tests/
+pytest tests/ -->
